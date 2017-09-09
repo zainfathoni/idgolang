@@ -3,29 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zainfathoni.github.io/idgolang/posts/voila/</loc>
+    <loc>https://idgolang.netlify.com/posts/voila/</loc>
     <lastmod>2017-09-09T21:46:10+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zainfathoni.github.io/idgolang/categories/</loc>
+    <loc>https://idgolang.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zainfathoni.github.io/idgolang/</loc>
-    <lastmod>2017-09-09T21:46:10+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://zainfathoni.github.io/idgolang/posts/</loc>
+    <loc>https://idgolang.netlify.com/</loc>
     <lastmod>2017-09-09T21:46:10+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zainfathoni.github.io/idgolang/tags/</loc>
+    <loc>https://idgolang.netlify.com/posts/</loc>
+    <lastmod>2017-09-09T21:46:10+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://idgolang.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   

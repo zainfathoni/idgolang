@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IDGolang</title>
-    <link>https://zainfathoni.github.io/idgolang/</link>
+    <link>https://idgolang.netlify.com/</link>
     <description>Recent content on IDGolang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id-id</language>
     <lastBuildDate>Sat, 09 Sep 2017 21:46:10 +0700</lastBuildDate>
     
-	<atom:link href="https://zainfathoni.github.io/idgolang/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://idgolang.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Voila</title>
-      <link>https://zainfathoni.github.io/idgolang/posts/voila/</link>
+      <link>https://idgolang.netlify.com/posts/voila/</link>
       <pubDate>Sat, 09 Sep 2017 21:46:10 +0700</pubDate>
       
-      <guid>https://zainfathoni.github.io/idgolang/posts/voila/</guid>
+      <guid>https://idgolang.netlify.com/posts/voila/</guid>
       <description>Voila!</description>
     </item>
     
