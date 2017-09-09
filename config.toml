@@ -1,4 +1,4 @@
-baseURL = "https://zainfathoni.github.io/idgolang/"
+baseURL = "https://idgolang.netlify.com"
 languageCode = "id-id"
 title = "IDGolang"
 theme = "learn"
