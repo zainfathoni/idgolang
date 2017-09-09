@@ -1,0 +1,4 @@
+baseURL = "https://zainfathoni.github.io/idgolang/"
+languageCode = "id-id"
+title = "IDGolang"
+theme = "bleak"
