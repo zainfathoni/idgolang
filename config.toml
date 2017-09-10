@@ -5,8 +5,16 @@ theme = "learn"
 
 # For search functionnality
 [outputs]
-home = [ "HTML", "RSS", "JSON"]
+  home = [ "HTML", "RSS", "JSON"]
 
 [params]
+  # Author of the site, will be used in meta information
+  author = "Zain Fathoni"
+  # Description of the site, will be used in meta information
+  description = "Belajar Go dalam Bahasa Indonesia"
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "blue"
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = true
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
