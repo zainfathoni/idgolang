@@ -10,4 +10,4 @@ pre = "<b>1. </b>"
 
 # Konsep Dasar Go
 
-Lorem Ipsum.
+[Belajar Go](https://www.youtube.com/playlist?list=PLrsbv89_ndN8ObqYSWXxkZ-gbWaoblH7N)

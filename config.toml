@@ -1,11 +1,11 @@
-baseURL = "https://idgolang.netlify.com"
-languageCode = "id-id"
+baseURL = "/"
+languageCode = "id-ID"
+defaultContentLanguage = "id"
+
 title = "IDGolang"
 theme = "learn"
-
-# For search functionnality
-[outputs]
-  home = [ "HTML", "RSS", "JSON"]
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
 
 [params]
   # Author of the site, will be used in meta information
@@ -17,4 +17,7 @@ theme = "learn"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = true
   # Set this to true to disable copy-to-clipboard button for inline code.
-  disableInlineCopyToClipBoard = false
+  # disableInlineCopyToClipBoard = false
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
